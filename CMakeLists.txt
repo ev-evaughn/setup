@@ -32,6 +32,9 @@ install_tool("BASH" "bash" "/bin;/usr/bin;/usr/local/bin")
 # Install Neovim (nvim)
 install_tool("NVIM" "neovim" "/bin;/usr/bin;/usr/local/bin")
 
+# Install Neovim init.lua configuration
+install(FILES ${CMAKE_SOURCE_DIR}/init.lua DESTINATION ${INSTALL_DIR})
+
 # Install GCC
 install_tool("GCC" "gcc" "/bin;/usr/bin;/usr/local/bin")
 
