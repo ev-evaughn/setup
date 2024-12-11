@@ -4,12 +4,14 @@
 ```
 bash-5.2
 git-2.47.1
+nvim-0.11.0
 ```
 
 ## Config Files
 ```
 ~/.bash_profile
 ~/.gitconfig
+init.lua
 ```
 
 ## Prerequisites
