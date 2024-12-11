@@ -14,6 +14,7 @@ nvim-0.11.0
 ## Config Files
 ```
 ~/.bash_profile
+gdbinit
 ~/.gitconfig
 init.lua
 ```
