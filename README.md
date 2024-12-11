@@ -1,6 +1,7 @@
 # Setup
 
 ## Software
+These will be installed or updated to the following versions
 ```
 bash-5.2
 cmake-3.31.2
@@ -12,6 +13,7 @@ nvim-0.11.0
 ```
 
 ## Config Files
+These will be overwritten
 ```
 ~/.bash_profile
 gdbinit
