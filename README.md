@@ -22,6 +22,10 @@ init.lua
 ```
 
 ## Prerequisites
-```git``` and ```cmake``` already installed and in ```$PATH```
+```cmake``` already installed and in ```$PATH```
 
 ## To run
+In setup's root directory
+```
+cmake --build
+```
