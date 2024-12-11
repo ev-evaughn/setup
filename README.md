@@ -5,6 +5,7 @@
 bash-5.2
 cmake-3.31.2
 gcc-14.2
+gdb-15.2
 git-2.47.1
 make-4.4.1
 nvim-0.11.0
